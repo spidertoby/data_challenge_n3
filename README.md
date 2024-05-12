@@ -1,6 +1,6 @@
 # Clases Astrofísicas
 
-Este repositorio contiene clases Python para modelar objetos astrofísicos como estrellas, planetas y sistemas planetarios. Estas clases son útiles para realizar cálculos y simulaciones relacionadas con la astronomía y la astrofísica.
+Este repositorio contiene clases Python para modelar objetos astrofísicos como estrellas, planetas y sistemas planetarios. Estas clases son útiles para realizar cálculos relacionados con la astronomía y la astrofísica.
 
 ## Clase Estrella
 
